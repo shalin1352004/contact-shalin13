@@ -16,7 +16,6 @@ body{
     background-color: rgb(0, 6, 42);
 }
 .container{
-    height: 100%;
     width: 100%;
     background-color: rgb(0, 6, 42);
     background: fixed;
@@ -74,4 +73,29 @@ button{
     justify-content: center;
     border-radius: 30px;
     transition: rgb(155, 149, 149) 2s;
+}
+@media screen and (max-width:600px){
+    form h3{
+        font-weight: 800;
+        font-size: 30px;
+        margin-bottom: 20px;
+        color:rgb(233, 233, 233) ;
+        text-size-adjust: auto;
+    }
+    input,textarea{
+        border-radius: 10px;
+        height: 20px;
+        color: rgb(0, 6, 42);
+        outline: none;
+        background-color: #f5f5f5   ;
+        border: black 5px ;
+        font-size: 12px;
+        padding: 10px;
+        font-weight: bolder;
+        height: auto;
+        border-color: chocolate;
+        
+    }
+
+
 }
