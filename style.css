@@ -53,26 +53,7 @@ input,textarea{
     border-color: chocolate;
     
 }
-button:hover{
-    color: aqua;
-    background-color: rgb(255, 255, 255);
-}
-button{
-    padding: 15px;
-    background-color:rgb(0, 6, 42) ;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 20px auto 0; 
-    color: white;
-    border: 2px solid aqua;
-    outline: black;
-    cursor: pointer;
-    width: 100px;
-    text-align: center;
-    justify-content: center;
-    border-radius: 30px;
-    transition: rgb(155, 149, 149) 2s;
-}
+
 @media screen and (max-width:600px){
     form h3{
         font-weight: 800;
