@@ -63,12 +63,11 @@ button{
     font-size: 18px;
     font-weight: bold;
     margin: 20px auto 0; 
-
     color: white;
     border: 2px solid aqua;
     outline: black;
     cursor: pointer;
-    width: 40%;
+    width: 100px;
     text-align: center;
     justify-content: center;
     border-radius: 30px;
