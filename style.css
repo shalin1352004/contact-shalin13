@@ -44,7 +44,7 @@ input,textarea{
     height: 30px;
     color: rgb(0, 6, 42);
     outline: none;
-    background-image: url(background1.png);
+    background-color:rgb(255, 255, 255);
     border: black 5px ;
     font-size: 15px;
     padding: 20px;
