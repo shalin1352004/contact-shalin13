@@ -18,7 +18,6 @@ body{
 }
 .container{
     width: 1500px;
-    background-color: rgb(245, 239, 232);
     background: fixed;
     display: flex;
     justify-content: center;
